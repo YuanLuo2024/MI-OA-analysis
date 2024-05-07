@@ -1,4 +1,4 @@
-# Systems-biology-based-analysis
+# Systems-biology based analysis
 The related file for submission of Yuan Luo
 
 Title:  Systems biology-based analysis exploring shared biomarkers and pathogenesis of myocardial infarction combined with osteoarthritis
